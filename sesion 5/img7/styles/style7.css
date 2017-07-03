@@ -1,0 +1,13 @@
+.table{
+	 border-spacing: 15px;
+    background-color: #252525;
+}
+
+* td{
+	padding: 10px;
+	background-color: #ACACAC;
+	text-align: center;
+	width: 150px; height: 150px;
+	color: gray; font-weight:bold;
+	
+}

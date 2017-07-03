@@ -1,0 +1,17 @@
+.table{
+ background-color:#74FD7B;
+width:500px; height:400px;
+text-align: center;
+
+}
+
+p: first-child {
+text-align: center;
+
+}
+
+
+p: nth-child(2) {
+color:green;
+text-decoration: none;
+}

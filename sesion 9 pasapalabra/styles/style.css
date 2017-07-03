@@ -1,0 +1,343 @@
+*{
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+button{
+	
+	width: 100px;
+	height: 25px;
+}
+
+
+body {
+	background-image: url("https://images2.alphacoders.com/437/thumb-1920-437028.jpg");
+	background-size: 100% 100%;
+}
+
+p {
+	font-size: 20px;
+	font-family: sans-serif;
+
+}
+
+#displayReloj {
+	 position: relative;
+	top: 250px; left: 265px;
+	border: 5px solid #63DE25;
+	width: 120px;
+	height: 80px;
+	text-align: center;
+	border-radius: 100%;
+	font-family: verdana, arial;
+	font-size:60px;
+	padding:10px;"    
+
+}
+
+.formQuestion {
+	background: rgba(255, 209, 67, 0.6);
+	border: 4px solid #CAC534;
+	float: right;
+	width: 640px;
+	height: 100%;
+	margin: 5px;
+	border-radius: 20px;
+}
+
+.formPasapalabra {
+	background: #B3E142;
+	margin: 10px;
+	border: 3px solid #63DE25;
+	border-radius: 100%;
+	width: 650px;
+	height: 650px; 
+
+}
+	  
+td {
+	color: black;
+	font-family: impact;
+}
+
+input {
+	width: 100px;
+	height: 20px;
+}
+
+
+
+#letterA{
+	position: relative;
+	top: -100px; left: 320px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterB{
+	position: relative;
+	top: -85px; left: 365px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterC{
+	position: relative;
+	top: -60px; left: 400px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterD{
+	position: relative;
+	top: -20px; left: 440px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterE{
+	position: relative;
+	top: 40px; left: 465px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterF{
+	position: relative;
+	top: 110px; left: 475px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterG{
+	position: relative;
+	top: 180px; left: 472px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterH{
+	position: relative;
+	top: 260px; left: 440px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterI{
+	position: relative;
+	top: 335px; left: 395px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterJ{
+	position: relative;
+	top: 395px; left: 330px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterK{
+	position: relative;
+	top: 435px; left: 265px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterL{
+	position: relative;
+	top: 460px; left: 195px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterM{
+	position: relative;
+	top: 485px; left: 110px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterN{
+	position: relative;
+	top: 495px; left: 20px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterÑ{
+	position: relative;
+	top: 490px; left: -65px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterO{
+	position: relative;
+	top: 470px; left: -155px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterP{
+	position: relative;
+	top: 435px; left: -240px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterQ{
+	position: relative;
+	top: 375px; left: -325px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterR{
+	position: relative;
+	top: 315px; left: -390px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterS{
+	position: relative;
+	top: 245px; left: -435px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterT{
+	position: relative;
+	top: 180px; left: -467px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterU{
+	position: relative;
+	top: 120px; left: -485px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterV{
+	position: relative;
+	top: 65px; left: -480px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterW{
+	position: relative;
+	top: 10px; left: -475px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterX{
+	position: relative;
+	top: -40px; left: -455px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterY{
+	position: relative;
+	top: -70px; left: -420px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+#letterZ{
+	position: relative;
+	top: -90px; left: -370px;
+	border: 3px solid #004381;
+	width:30px; height: 30px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #63B3FC;
+	border-radius: 100%;
+}
+
+
+
+
